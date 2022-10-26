@@ -25,11 +25,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/shounp." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shounp." height="30" width="40" /></a>
-<a href="https://linkedin.com/in/leonardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shounp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shounp" height="30" width="40" /></a>
-<a href="https://fb.com/leonardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leonardo" height="30" width="40" /></a>
-<a href="https://instagram.com/leonardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/leonardo-teixeira-b81801ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20343946/shounp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shounp" height="30" width="40" /></a>
+<a href="https://www.facebook.com/leonardo.teixeira.5832343/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leonardo" height="30" width="40" /></a>
+<a href="https://instagram.com/leonardotexs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardo" height="30" width="40" /></a>
 <a href="https://discord.gg/LeoT#4717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="LeoT#4717" height="30" width="40" /></a>
 </p>
 
